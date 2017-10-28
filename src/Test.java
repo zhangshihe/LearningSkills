@@ -1,8 +1,9 @@
 public class Test{
 	public static void main(String[] args){
-System.out.println("Hello sublime Test 2");
-while(true){
-System.out.println("bye");
+		List<String> list = new ArrayList<String>();
+		System.out.println("Hello sublime Test 2");
+		while(true){
+		//新分支
+	    }
 	}
-}
 }
